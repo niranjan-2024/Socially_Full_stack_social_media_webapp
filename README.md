@@ -1,4 +1,4 @@
-# Project Name - Socially - Social Media Web Application
+# Socially - Social Media Web Application
 
 The Social Media Web Application is a platform that allows users to connect with each other, share posts, and engage in meaningful conversations. It provides a seamless and user-friendly experience for social networking and content sharing.
 
