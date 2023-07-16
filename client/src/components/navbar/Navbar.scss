@@ -1,0 +1,38 @@
+.Navbar{
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    height: 60px;
+    border-bottom: 1px solid var(--border-color);
+    
+
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+        
+    }
+
+    .logo {
+        width: 30px; /* Set the desired width for the logo */
+        height: auto; /* Automatically adjust the height based on the width */
+        border-radius: 5px;
+        margin-right: 20px;
+        margin-top: 10px;
+      }
+
+    .right-side{
+        display: flex;
+        gap: 20px;
+        align-items: center;
+
+        .logout{
+            font-size: 1.8rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
