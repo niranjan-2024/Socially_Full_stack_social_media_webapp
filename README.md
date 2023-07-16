@@ -1,1 +1,1 @@
-# Socially_Full_stack_social_media_webapp
+# Socially_Full_Stack_social_media_webApp
